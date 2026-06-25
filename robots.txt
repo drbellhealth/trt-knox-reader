@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://drbellhealth.github.io/trt-knox-reader/sitemap.xml
